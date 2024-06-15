@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jchen362.github.io/frontend_fitness/",
+  "homepage": "https://jchen362.github.io/frontend_fitness",
   "name": "frontend",
   "version": "0.1.0",
   "private": false,
@@ -16,7 +16,6 @@
     "chartjs-adapter-date-fns": "^3.0.0",
     "date-fns": "^2.30.0",
     "framer-motion": "^10.12.16",
-    "gh-pages": "^6.1.1",
     "jsonwebtoken": "^9.0.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
@@ -34,7 +33,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -53,5 +51,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
