@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MyFitnessCompanion/static/css/main.c3fecbbd.css",
-    "main.js": "/MyFitnessCompanion/static/js/main.0727b33e.js",
-    "static/js/787.cda612ba.chunk.js": "/MyFitnessCompanion/static/js/787.cda612ba.chunk.js",
-    "static/media/girl-doing-yoga.svg": "/MyFitnessCompanion/static/media/girl-doing-yoga.beef1b4c740b49b178c1dcfc4b8f55e9.svg",
-    "index.html": "/MyFitnessCompanion/index.html",
-    "main.c3fecbbd.css.map": "/MyFitnessCompanion/static/css/main.c3fecbbd.css.map",
-    "main.0727b33e.js.map": "/MyFitnessCompanion/static/js/main.0727b33e.js.map",
-    "787.cda612ba.chunk.js.map": "/MyFitnessCompanion/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/frontend_fitness/static/css/main.c3fecbbd.css",
+    "main.js": "/frontend_fitness/static/js/main.339ec64b.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend_fitness/static/js/787.cda612ba.chunk.js",
+    "static/media/girl-doing-yoga.svg": "/frontend_fitness/static/media/girl-doing-yoga.beef1b4c740b49b178c1dcfc4b8f55e9.svg",
+    "index.html": "/frontend_fitness/index.html",
+    "main.c3fecbbd.css.map": "/frontend_fitness/static/css/main.c3fecbbd.css.map",
+    "main.339ec64b.js.map": "/frontend_fitness/static/js/main.339ec64b.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend_fitness/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3fecbbd.css",
-    "static/js/main.0727b33e.js"
+    "static/js/main.339ec64b.js"
   ]
 }
