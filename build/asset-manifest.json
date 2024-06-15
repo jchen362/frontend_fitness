@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c3fecbbd.css",
+    "main.js": "./static/js/main.4d53997d.js",
+    "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
+    "static/media/girl-doing-yoga.svg": "./static/media/girl-doing-yoga.beef1b4c740b49b178c1dcfc4b8f55e9.svg",
+    "index.html": "./index.html",
+    "main.c3fecbbd.css.map": "./static/css/main.c3fecbbd.css.map",
+    "main.4d53997d.js.map": "./static/js/main.4d53997d.js.map",
+    "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3fecbbd.css",
+    "static/js/main.4d53997d.js"
+  ]
+}
