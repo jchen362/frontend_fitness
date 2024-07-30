@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/frontend_fitness/static/css/main.c3fecbbd.css",
-    "main.js": "/frontend_fitness/static/js/main.fc2cf68d.js",
+    "main.js": "/frontend_fitness/static/js/main.1fb43780.js",
     "static/js/787.cda612ba.chunk.js": "/frontend_fitness/static/js/787.cda612ba.chunk.js",
     "static/media/girl-doing-yoga.svg": "/frontend_fitness/static/media/girl-doing-yoga.beef1b4c740b49b178c1dcfc4b8f55e9.svg",
     "index.html": "/frontend_fitness/index.html",
     "main.c3fecbbd.css.map": "/frontend_fitness/static/css/main.c3fecbbd.css.map",
-    "main.fc2cf68d.js.map": "/frontend_fitness/static/js/main.fc2cf68d.js.map",
+    "main.1fb43780.js.map": "/frontend_fitness/static/js/main.1fb43780.js.map",
     "787.cda612ba.chunk.js.map": "/frontend_fitness/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3fecbbd.css",
-    "static/js/main.fc2cf68d.js"
+    "static/js/main.1fb43780.js"
   ]
 }
