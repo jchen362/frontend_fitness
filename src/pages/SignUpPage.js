@@ -80,7 +80,7 @@ class SignUpPage extends React.Component {
                         this.setState({nameContent: e.target.value})
                         }}/>
                     <div style = {{width: "100%", height: "20px"}}></div>
-                    <TextField label = "Enter Password" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px"}} 
+                    <TextField label = "Enter Password" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px", maxWidth: "100%"}} 
                         InputProps = {{
                             endAdornment: (
                             <InputAdornment position = "start" onClick = {handlePasswordVisibility}>
