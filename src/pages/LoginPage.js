@@ -80,13 +80,13 @@ class LoginPage extends React.Component {
                     Let's get Jacked Together!
                 </div>
                 {/**Username textfield */}
-                <TextField label = "Enter Email" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px"}} value = {this.state.usernameContent}
+                <TextField label = "Enter Email" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px", maxWidth: "100%"}} value = {this.state.usernameContent}
                     onChange = {(e) => {
                         this.setState({usernameContent: e.target.value})
                     }}/>
                 <div style = {{width: "100%", height: "20px"}}></div>
                 {/**Password textfield */}
-                <TextField label = "Enter Password" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px"}} 
+                <TextField label = "Enter Password" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px", maxWidth: "100%"}} 
                     InputProps = {{
                         endAdornment: (
                         <InputAdornment position = "start" onClick = {handlePasswordVisibility}>
