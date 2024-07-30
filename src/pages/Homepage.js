@@ -32,7 +32,7 @@ import {
     Legend
 } from 'chart.js';
 
-const port = "https://54.90.186.160:3001";
+const port = "https://54.175.45.127:3001";
 
 class Homepage extends React.Component {
     constructor(props) {

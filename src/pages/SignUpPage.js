@@ -8,7 +8,7 @@ import "./LoginPage.css";
 import { motion } from "framer-motion";
 import Paper from '@mui/material/Paper';
 
-const port = "https://54.90.186.160:3001";
+const port = "https://54.175.45.127:3001";
 
 class SignUpPage extends React.Component {
 
