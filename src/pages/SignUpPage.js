@@ -72,11 +72,11 @@ class SignUpPage extends React.Component {
                     <div style = {{width:"100%", height:"50px", textAlign: "center", fontSize: "30px", fontFamily: "Roboto"}}>
                         Create Your Account Below
                     </div>
-                    <TextField label = "Enter Email" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px"}} value = {this.state.usernameContent} onChange = {(e) => {
+                    <TextField label = "Enter Email" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px", maxWidth: "100%"}} value = {this.state.usernameContent} onChange = {(e) => {
                         this.setState({usernameContent: e.target.value})
                     }}/>
                     <div style = {{width: "100%", height: "20px"}}></div>
-                    <TextField label = "Enter Name" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px"}} value = {this.state.nameContent} onChange = {(e) => {
+                    <TextField label = "Enter Name" id="outlined-basic" variant="outlined" style = {{margin:"auto", width: "600px", maxWidth: "100%"}} value = {this.state.nameContent} onChange = {(e) => {
                         this.setState({nameContent: e.target.value})
                         }}/>
                     <div style = {{width: "100%", height: "20px"}}></div>
